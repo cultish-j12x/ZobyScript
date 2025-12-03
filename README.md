@@ -47,7 +47,7 @@ ZobyScript is designed to be:
 
 ## 🧒 **Who Made This?**
 
-> **👤 Cult — 16-year-old self-taught developer**  
+> **👤 Cult — 16-year-old developer**  
 > Learning **C++, Assembly, compiler engineering**  
 > Knows **Python, JavaScript**, reverse engineering
 

@@ -1,0 +1,23 @@
+﻿  compiler.cpp
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\include\bytecode.h(130,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../src/compiler.cpp')
+  
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(113,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(118,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(164,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(172,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(175,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(365,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(378,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(401,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(404,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(416,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(434,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(437,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\src\compiler.cpp(451,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  12 of 1856 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    21 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  zobyscript.vcxproj -> C:\Users\asdf\Desktop\!zobyscript language\respect\zobyscript\x64\Release\zobyscript.exe
